@@ -1,0 +1,7 @@
+hello:hi
+how are you:I am fine
+what is your name:my name is Siri
+where you from:I am from India
+what do you do:nothing I am helping you
+where are you from:I am from India
+what is my name:my name is river CIA
